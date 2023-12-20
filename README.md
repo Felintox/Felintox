@@ -5,7 +5,7 @@
 ## 💬 Sobre mim :
 Tenho Bacharelado em Engenharia Química pela UNICAP. Começei a ter interesse pela área de Dados atraves de conteudos como Industria 4.0, Big Data.
 
-Realizei um TCC com o tema "Modelagem e simulação de processos químicos reacionais com o uso de redes neurais artificiais", apos isso começei a me interessar bastante pela área de dados e Machine Learning, Realizando um curso de transição de carreira na plataforma de cursos Tera.
+Realizei um TCC com o tema "Modelagem e simulação de processos químicos reacionais com o uso de redes neurais artificiais", apos isso começei a me interessar bastante pela área de dados e Machine Learning, realizando logo após um curso de transição de carreira na plataforma de cursos Tera de DATA SCIENCE & MACHINE LEARNING.
 
 
 - [Portfolio](https://github.com/Felintox/Portfolio): Projetos de Ciência de Dados.
