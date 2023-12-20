@@ -1,4 +1,4 @@
- <h1 align="center">Olá! Prazer, sou o Gabriel Felinto </h1>
+ <h1 align="center">Olá! Prazer, me chamo Gabriel Felinto </h1>
  <h2 align="center">Este é meu repositorio de Ciência de Dados </h2>
  
 # 💬 Sobre mim :
