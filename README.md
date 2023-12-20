@@ -1,13 +1,13 @@
-#                                                                     <h1 align="center">Olá! Prazer, sou o Gabriel Felinto </h1>
-# <h2 align="center">Este é meu repositorio de Ciência de Dados 
+ <h1 align="center">Olá! Prazer, sou o Gabriel Felinto </h1>
+ <h2 align="center">Este é meu repositorio de Ciência de Dados </h2>
+ 
+# 💬 Sobre mim :
+Tenho Bacharelado em Engenharia Química pela UNICAP. Comecei a ter interesse pela área de Dados atraves de conteudos como Industria 4.0, Big Data.
+
+Realizei um TCC com o tema "Modelagem e simulação de processos químicos reacionais com o uso de redes neurais artificiais", apos isso começei a me interessar bastante pela área de dados e Machine Learning, realizando logo após um curso de transição de carreira na plataforma de cursos Tera em DATA SCIENCE & MACHINE LEARNING.
 
 
-## 💬 Sobre mim :
-Tenho Bacharelado em Engenharia Química pela UNICAP. Começei a ter interesse pela área de Dados atraves de conteudos como Industria 4.0, Big Data.
-
-Realizei um TCC com o tema "Modelagem e simulação de processos químicos reacionais com o uso de redes neurais artificiais", apos isso começei a me interessar bastante pela área de dados e Machine Learning, realizando logo após um curso de transição de carreira na plataforma de cursos Tera de DATA SCIENCE & MACHINE LEARNING.
-
-
+Link para meu Portfolio:
 - [Portfolio](https://github.com/Felintox/Portfolio): Projetos de Ciência de Dados.
 
 Habilidades :
