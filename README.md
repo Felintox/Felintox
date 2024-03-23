@@ -12,7 +12,7 @@ No meu portfolio você irá ecnontrar projetos voltados para área de dados, des
 
 
 ## 📄 Link para meu Portfolio:
-- [Portfolio](https://github.com/Felintox/Portfolio): Projetos de Ciência de Dados.
+[Portfolio](https://github.com/Felintox/Portfolio): Projetos de Ciência de Dados.
 
 ## 💻 Habilidades :
 
