@@ -1,5 +1,5 @@
- <h1 align="center">Olá! Me chamo Gabriel Felinto </h1>
- <h2 align="center">Este é meu repositorio de Ciência de Dados </h2>
+
+ <h2 align="center"> 👋👋 Este é meu repositorio de Ciência de Dados </h2>
  
 # 💬 Sobre mim :
 
@@ -11,10 +11,10 @@ Minha expertise técnica abrange uma ampla gama de ferramentas e técnicas de ci
 No meu portfolio você irá ecnontrar projetos voltados para área de dados, desde análise de dados com SQL e Python , até projeto de regressão usando Machine Learning
 
 
-## Link para meu Portfolio:
+## 📄 Link para meu Portfolio:
 - [Portfolio](https://github.com/Felintox/Portfolio): Projetos de Ciência de Dados.
 
-## Habilidades :
+## 💻 Habilidades :
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -25,7 +25,7 @@ No meu portfolio você irá ecnontrar projetos voltados para área de dados, des
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-## Redes Sociais :
+## 📱 Redes Sociais :
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfelinto/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/gabrielfelinto)
