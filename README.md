@@ -8,7 +8,7 @@ Com formação em Engenharia Química, desenvolvi uma forte paixão pela área d
 
 Minha expertise técnica abrange uma ampla gama de ferramentas e técnicas de ciência de dados, incluindo Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly) para manipulação e visualização de dados, Scikit-learn e Keras para machine learning e IA, além de proficiência em SQL (MySQL e PostgreSQL) para gestão de bancos de dados estruturados. Também sou versado no uso de PowerBI e Excel para análise de dados, complementados por um sólido conhecimento em estatística.
 
-No meu portfolio você irá encontrar projetos voltados para área de dados, desde análise de dados com SQL e Python , até projeto de regressão usando Machine Learning
+No meu portfolio você irá encontrar projetos voltados para área de dados, desde análise de dados com SQL, Python e um projeto de regressão usando Machine Learning
 
 
 ## 📄 Link para meu Portfolio:
