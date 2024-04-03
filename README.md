@@ -4,11 +4,16 @@
 # 💬 Sobre mim :
 
 
-Com formação em Engenharia Química, desenvolvi uma forte paixão pela área de ciência de dados, especialmente durante meu projeto de conclusão de curso, onde implementei uma rede neural em Python. Minha formação me proporcionou uma base sólida em pensamento analítico e resolução de problemas complexos, habilidades que considero fundamentais para a ciência de dados.
+Mestrando em Engenharia Química, Adquiri habilidades em ciência de dados através da realização do meu TCC onde apliquei uma Rede Neural artificial em um conjunto de dados com o objetivo de prever as variáveis de saída de um processo químico.
 
-Minha expertise técnica abrange uma ampla gama de ferramentas e técnicas de ciência de dados, incluindo Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly) para manipulação e visualização de dados, Scikit-learn e Keras para machine learning e IA, além de proficiência em SQL (MySQL e PostgreSQL) para gestão de bancos de dados estruturados. Também sou versado no uso de PowerBI e Excel para análise de dados, complementados por um sólido conhecimento em estatística.
+Venho realizando projetos com dados reais, desde Análise exploratória de dados salario na área de dados com python, Análise de Dados de E-Commerce com SQL e Análise de Dados de uma Startup de Entregas com Power BI
 
-No meu portfolio você irá encontrar projetos voltados para área de dados, desde análise de dados com SQL, Python e um projeto de regressão usando Machine Learning
+Com competências em:
+- Python e Bibliotecas de Dados (numpy, matplotlib, plotly, pandas, keras, sklearn, seaborn, statsmodel)
+- Banco de Dados Relacionais  (SQL, MySQL, PostgreSQL)
+- Estatística Avançada
+- Power BI através de criação de dashboards, função DAX, acompanhamento de KPI (indicadores chave)
+- Excel Avançado desde funções até criações de tabela dinâmicas e gráficos 
 
 
 ## 📄 Link para meu Portfolio:
