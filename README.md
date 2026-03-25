@@ -1,6 +1,4 @@
 <h2 align="center">👋 Olá, sou Gabriel Felinto</h2>
-<h3 align="center">Cientista de Dados · Recife, PE</h3>
-
 <br>
 
 ## 💬 Sobre mim
