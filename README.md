@@ -1,8 +1,5 @@
 <h2 align="center">👋 Olá, sou Gabriel Felinto</h2>
-<h3 align="center">Cientista de Dados · Recife, PE</h3>
-
 <br>
-
 ## 💬 Sobre mim
 
 Cientista de Dados com graduação em Engenharia Química e Mestrado em andamento na UFPE, onde desenvolvo modelos de Machine Learning e Deep Learning aplicados à predição de propriedades de materiais.
