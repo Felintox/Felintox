@@ -8,7 +8,7 @@ Cientista de Dados com graduação em Engenharia Química e Mestrado em andament
 Tenho experiência sólida com modelos preditivos, pipelines ETL e análise de grandes volumes de dados — trabalhei com bases de 240 mil+ arquivos estruturados e 2,6 milhões de registros em projetos reais. Busco posições em **Ciência de Dados**, com abertura para **Análise de Dados**.
 
 - 🔭 Atualmente: Pesquisador na UFPE (2024–2026), desenvolvendo modelos ML/DL com PyTorch e Scikit-learn
-- 🎓 Mestrado em Engenharia Química — UFPE (conclusão: 2025.2)
+- 🎓 Mestrado em Engenharia Química — UFPE (conclusão: 2026)
 - 🌐 Portfólio: [felintox.github.io](https://felintox.github.io)
 - 📝 Artigos: [medium.com/@gabrielfelinto2020](https://medium.com/@gabrielfelinto2020)
 
